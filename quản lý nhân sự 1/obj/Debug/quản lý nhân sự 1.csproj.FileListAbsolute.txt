@@ -1,5 +1,0 @@
-D:\test code\quản lý nhân sự 1\quản lý nhân sự 1\obj\Debug\quản lý nhân sự 1.csproj.AssemblyReference.cache
-D:\test code\quản lý nhân sự 1\quản lý nhân sự 1\obj\Debug\quản_lý_nhân_sự_1.Properties.Resources.resources
-D:\test code\quản lý nhân sự 1\quản lý nhân sự 1\obj\Debug\quản lý nhân sự 1.csproj.GenerateResource.cache
-D:\test code\quản lý nhân sự 1\quản lý nhân sự 1\obj\Debug\quản lý nhân sự 1.csproj.CoreCompileInputs.cache
-D:\test code\quản lý nhân sự 1\quản lý nhân sự 1\obj\Debug\quản_lý_nhân_sự_1.LoginForm.resources
